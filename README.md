@@ -4,7 +4,7 @@ Blog-website is a daily journal written in MongoDB, ExpressJS, NodeJS.
 Requirements and Environment
 
 Node.js
-Express 
+Express.js
 Mongodb
 
 Installation
